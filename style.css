@@ -1,0 +1,65 @@
+#text{
+    height: 25px;
+    border-radius: 5px;
+    padding: 4px;
+    border: solid thin #aaa;
+    width: 100%;
+}
+#button{
+    padding: 10px;
+    width: 100px;
+    color: white;
+    background-color: lightblue;
+}
+#box{
+    background-color: grey;
+    margin: auto;
+    width: 300px;
+    padding: 20px;
+}
+textarea{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+/*.filter {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+    opacity: .7;
+
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,0,205,1) 33%, rgba(0,212,255,1) 100%);
+}
+.table {
+    position: absolute;
+    z-index: 2;
+    left:50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    width: 60%;
+    height: 500px;
+}*/
+
+label { 
+    display: block; 
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 23px;
+}
+#indexGo{
+    float:left;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#printPDF{
+    float:left;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
